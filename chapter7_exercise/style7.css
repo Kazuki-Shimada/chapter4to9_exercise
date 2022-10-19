@@ -1,0 +1,39 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+header {
+  height: 400px;
+  width: 100%;
+  background-image: url(img/mv.jpg);
+  background-size: cover;
+  background-position: bottom;
+}
+
+h1 {
+  padding: 20px;
+}
+
+.main {
+  width: 840px;
+  margin: 0 auto;
+}
+
+.wrapper1 {
+  padding: 50px 0 30px;
+  border-bottom: 1px solid black;
+}
+
+.wrapper2, .wrapper3, .wrapper4 {
+  padding: 30px 0;
+  border-bottom: 1px solid black;
+}
+.wrapper4 {
+  margin-bottom:50px;
+}
+
+a {
+  color: black;
+}
